@@ -1,0 +1,123 @@
+body {
+    background: rgb(140, 162, 173)
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+
+.UC0 {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border-bottom: 40px green;
+}
+   
+.camera {
+    height: 40px;
+}
+
+.camera2 {
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px
+    ;
+}
+
+.h1-1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+} 
+
+.container {
+    height: 70vh;
+    display:flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.presentation1 {
+    width: 20%;
+    height: 300px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.presentation2 {
+    width: 20%;
+    height: 290px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.camera3 { 
+    background-size: auto;
+    height: 290px;
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+.container2 {
+    height: 70vh;
+    display:flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.presentation3 {
+    margin-top: 5%;
+    width: 20%;
+    height: 550px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.UC4 {
+    margin-top: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.UC-T {
+    padding: 30px;
+    margin-top: 5%;
+}
+
+.caméra-noir {
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 300px
+}
+
+.plan-maison {
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+header {
+    border-top: 20px solid rgb(0, 0, 0);
+    background-color:rgb(226,156,87);
+    border-bottom: 20px solid rgb(0, 0, 0);
+    border-right: 10px solid rgb(0, 0, 0);
+    border-left: 10px solid rgb(0, 0, 0);
+}
+
+.footer {
+    background-color: rgb(226,156,87);
+    border-bottom: 20px solid rgb(0, 0, 0);
+    border-right: 10px solid rgb(0, 0, 0);
+    border-left: 10px solid rgb(0, 0, 0);
+    border-top: 20px solid rgb(0, 0, 0);
+    margin-top: auto;
+}
